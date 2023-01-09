@@ -1,0 +1,8 @@
+{
+    "ai": true,
+    "ai_strength": 5,
+    "eval": true,
+    "start_position": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "dark_squares": "e68555",
+    "light_squares": "f5d3ba"
+}
